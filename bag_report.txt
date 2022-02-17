@@ -9,3 +9,4 @@ Steps to Reproduce: Steps
 Actual Result : page lock
 Expected Result: opening a page
 Additional Information: Other
+Attachments
