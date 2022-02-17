@@ -40,12 +40,12 @@
 
 21) Отправить http запрос на сервер http://162.55.220.72:5005/terminal-hw-request === curl http://162.55.220.72:5005/terminal-hw-request === curl "http://162.55.220.72:5005/get_method?name=Olga&age=34"
 
-22) Написать скрипт, который выполнит автоматически пункты 3, 4, 5, 6, 7, 8, 13 ===
- #!/bin/bash                                                                                                                                                              
+22) Написать скрипт, который выполнит автоматически пункты 3, 4, 5, 6, 7, 8, 13 ===                                                                                             
+ #!/bin/bash                                                                                                                                                                     
  cd folder_1                                                                                                                                                      
- mkdir s_1 s_2 s_3
- cd s_1
- touch {app_1.txt,app_2.txt,app_3.txt,map_1.json,map_2.json}
- mkdir fut_1 fut_2 fut_3
- ls -la
- C:/QA/folder_1/s_1/{map_2.json,app_2.txt} C:/QA/folder_1/s_1/fut_2/
+ mkdir s_1 s_2 s_3                                                                                                                                                            
+ cd s_1                                                                                                                                                                        
+ touch {app_1.txt,app_2.txt,app_3.txt,map_1.json,map_2.json}                                                                                                                    
+ mkdir fut_1 fut_2 fut_3                                                                                                                                                       
+ ls -la                                                                                                                                                                         
+ C:/QA/folder_1/s_1/{map_2.json,app_2.txt} C:/QA/folder_1/s_1/fut_2/                                                                                                            
