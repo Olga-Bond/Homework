@@ -1,12 +1,12 @@
  Branch
  
 1. На локальном репозитории сделать ветки для:
-Postman === git branch Postman
-Jmeter === git branch Jmeter
-CheckLists === git branch CheckLists
-Bag_Reports === git branch Bag_Reports
-SQL === git branch SQL
-Charles === git branch Charles
+Postman === git branch Postman                                                                                                                                                 
+Jmeter === git branch Jmeter                                                                                                                                                        
+CheckLists === git branch CheckLists                                                                                                                                           
+Bag_Reports === git branch Bag_Reports                                                                                                                                   
+SQL === git branch SQL                                                                                                                                                                 
+Charles === git branch Charles                                                                                                                                                     
 Mobile testing === git branch Mobile_testing
 
 2. Запушить все ветки на внешний репозиторий === git push -u origin --all
