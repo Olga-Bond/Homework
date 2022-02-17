@@ -1,0 +1,5 @@
+ ID: 1
+ Destination: checking the possibility of registration with empty form fields
+ Steps to Reproduce: activation of the registration button
+ Expected Result: message about the need to fill in empty fields
+ Actual Result: Passed
